@@ -1,0 +1,318 @@
+\documentclass{procDDs}
+\usepackage{epstopdf}
+
+                                                  % load packages only if necessary
+
+\title{Experimental Study of Diffraction by a Thin Cone}
+
+\author{\textbf{Belous A.A.}, Korolkov A.I., Shanin A.V.}% List of authors with the
+{Faculty of Physics, Lomonosov Moscow State University, Russia}                 % same affiliation,
+                                                  % lecturer given in bold
+{artem.belous@gmail.com}                                   % e-mail of lecturer
+%
+%                                                 % it is important not to have
+%                                                 % blank lines between the
+%                                                 % \author and \coauthor
+%
+%\coauthor{Name I. Coauthor}                       % Co-author(s) with
+%{Institute, University, Country}                  % another affiliation
+%{coauthor@e.mail }                                               % use such line
+                                                  % if e-mail none available
+
+\begin {document}
+
+\maketitle
+
+\index{Belous, A.A.}                              % write this for each author
+\index{Korolkov, A.I.}                              % to generate the index
+\index{Shanin, A.V.}                             %
+
+\begin{abstract}   
+   A problem of diffraction of acoustical waves by a thin rigid cone is studied. A direct diffraction experiment is used to measure the diffracted field on the surface of a thin cone. The experiment is performed using MLS (Maximum Length Sequence) method. The case of axial and non-axial incidence is studied. The wavelengths are small comparatively to the size of the cone. Method of boundary integral equation in parabolic approximation is used to describe the field theoretically. The integral equation is solved numerically by iterations. The results of the experiment are compared with the results of the calculation.
+\end{abstract}
+
+\section{Introduction}
+
+   Diffraction by a thin cone  attracts considerable attention of researchers. Several different approaches exist to developing both asymptotics of the diffracted field and the diffracted field itself.  First, there is a traditional asymptotic approach based on ray representation \cite{Popov}. Second, there is an approach based on the parabolic equation method \cite{Andronov}. Third, there is an approach based on the boundary integral equation method for the parabolic equation in Cartezian coordinates \cite{Shanin1}. Also, there is an approach based on the Smyshlyaev's formula \cite{Smychlyaev}, and an approach based on Kontorovich-Lebedev  integral representation \cite{Lyalinov}. Still, authors know no  papers devoted to the experimental study of this problem. In this work we have tried to fill  this gap. 
+   
+   A direct diffraction experiment is used to measure the diffracted field on the surface of a cone. The experiment is performed using MLS technique \cite{Shanin}. The receiver is put on the surface of the cone. After that the cone is irradiated by a point source from different directions so that the receiver is enlightened or shadowed. The method of boundary integral equation in parabolic approximation  \cite{Shanin_parabolic} is used to validate the results of the experiment.
+   
+
+\section{Experiment}
+
+\subsection{Description}
+A narrow (the angle is $2\alpha = 5.5 ^{\circ}$) duralumin cone of the length of 1 meter(see Fig.~\ref{cone}) is hanged in free space. A small (its size is around 0.01 meter) microphone is placed on the surface of the cone. The cone is irradiated by a small sound source (its size is around 0.01 meter) from different directions so the receiver can be shadowed or enlightened (see Fig.~\ref{exp_scheme}). A miniature armature Knowles driver is used as a source and a well-calibrated no-name microphone is used as a receiver. 
+
+\begin{figure}[t!]\centering
+	\includegraphics[width=.5\textwidth]{cone.jpeg}
+	\caption{Photo of the duralumin cone with the mic on its surface.}\label{cone}
+\end{figure}
+
+
+To conduct the experiment, MLS method is used \cite{Shanin}. The cone is irradiated by a pseudo-random signal and then impulse response of the acoustical path is calculated through calculating correlation of the MLS signal with the output signal.
+
+\begin{figure}[t!]\centering
+	\includegraphics[width=.5\textwidth]{experiment.eps}
+	\caption{Experiment scheme, view from above.}\label{exp_scheme}
+\end{figure}
+
+The input MLS signal is correlated with the measured signal (see Fig.~\ref{processing}) and impulse response is calculated.   A region of interest corresponding to diffraction by the cone is cropped from impulse response. After that the frequency response is calculated and compared to theory.
+
+\begin{figure}[t!]\centering
+	\includegraphics[width=.48\textwidth]{processing.eps}
+	\caption{Experimental data processing scheme.}\label{processing}
+\end{figure}
+
+
+\section{Theoretical description}
+
+\subsection{Problem statement}
+Let us consider a stationary 3D problem and omit a time-dependence $\exp\{-i\omega t\}$.
+The acoustical field satisfies Helmholtz equation everywhere outside the cone:
+\begin{equation}\label{helm}                     
+\Delta \tilde{u} + k^2 \tilde{u} = 0,                                         
+\end{equation}
+where $\Delta$ is the Laplace operator. The cone is rigid, so the full field $\tilde u$ satisfies the Neumann boundary conditions:
+\begin{equation}
+\frac{\partial \tilde u}{\partial \vec{n}}=0,
+\end{equation}
+where $\vec{n}$ is a normal vector to the cone surface. The cone is very narrow (its vertex angle is much smaller than 1 radian) so most of the waves are going to be scattered under small angles. This means that the parabolic approximation can be used to describe the diffraction processes \cite{Shanin_parabolic}. Following the standard procedure the field is represented in the following form:
+\begin{equation}
+\label{parab_field}                     
+\tilde{u}(x,r,\varphi)=\exp\left\lbrace ikx \right\rbrace u(x,r,\varphi),                                         
+\end{equation}
+where $u$ is a slow function of $x$, compared to the exponential factor. Substituting (\ref{parab_field}) in (\ref{helm}) and neglecting the small terms, get the approximate equation for $u$:
+
+\begin{equation}\label{parab_eqn}                     
+\left( \frac{\partial}{\partial x} + \frac{1}{2ik} \Delta_\perp \right) u = 0,                                 
+\end{equation}
+where 
+\begin{equation}
+\Delta_\perp = \left(\frac{1}{r}\frac{\partial}{\partial r}r\frac{\partial}{\partial r}+\frac{1}{r^2}\frac{\partial^2}{\partial \varphi^2}\right).
+\end{equation}
+This is the parabolic equation of the diffraction theory. %(PETD).
+
+The field $u$ is represented as a sum of the incident and scattered field:
+\begin{equation}
+u = u^{\rm in} + u^{\rm sc}.
+\end{equation}
+
+As we are using a point source in experiment, $u^{\rm in}$  is equal to Green's function of the parabolic equation. Let us denote the points of space by $\vec{r} = (x, r, \varphi)$ and the point source be located at $\vec{r_s} = (x_s, r_s, \varphi_s)$. Thus 
+\begin{equation}\label{greens_sol}                     
+u^{\rm in} = \frac{k}{2\pi i (x-x_s)} \exp \left[   \frac{ik}{2} \frac{(\Delta r)^2}{x-x_s}\right], \quad x>x_s.
+\end{equation}
+where $\Delta r$ is the distance between the projections of $\vec{r}$ and $\vec{r_s}$ onto the transversal plane:
+\begin{equation}\label{delta_r}                     
+(\Delta r)^2 = r^2 + r_s^2 - 2r r_s \cos(\varphi - \varphi_s).
+\end{equation}
+Note that $u_{\rm in}$ is equal to zero if $x<x_s$.
+
+The problem should be supplemented with radiation and Meixner conditions. For details see \cite{Shanin_parabolic}.
+
+
+\subsection{Calculating the diffracted field}
+
+In \cite{Shanin_parabolic} a boundary integral equation is derived for the field diffracted by a body of revolution. The equation is applied to the bodies having their radius dependent on $x$ like $r = f(x)$. We are going to apply the results of \cite{Shanin_parabolic} for the cone problem.
+
+Let $U(x,\varphi)$ be the full field on the surface, $U^{\rm in}$ be the incident field on the surface, i.e. 
+\begin{equation}
+U^{\rm in}(x,\varphi) \equiv u^{\rm in}(x,f(x),\varphi),
+\end{equation}
+\begin{equation}
+U(x,\varphi) \equiv u(x,f(x),\varphi).
+\end{equation}
+ Denote $x_*, \varphi_*$ as  coordinates of the observation point on the surface of the cone. Then the following integral equation is satisfied:
+\begin{multline}\label{int_eq} 
+U(x_*, \varphi_*) = \int_{0}^{2\pi}\int_{0}^{x_*} K(x_*, \varphi_*, x, \varphi) U(x, \varphi) dx d\varphi \\
++ 2U^{\rm in}(x_*, \varphi_*),
+\end{multline}
+\begin{multline} \label{int_ker}                   
+K(x_*, \varphi_*, x, \varphi) = \frac{ikf(x)}{2\pi} \times \\
+\left[ \frac{\dot{f}(x)}{x_* - x} +\frac{f(x) - f(x_*) \cos(\varphi - \varphi_*)}{(x_* - x)^2}\right] \times \\
+\exp \left\lbrace  \frac{ik}{2}  \frac{f^2(x_*) + f^2(x) - 2f(x_*) f(x) \cos(\varphi - \varphi_*)}{x_* - x} \right\rbrace,
+\end{multline}
+For our case $f(x)$ is a linear function of $x$, $r = f(x) = x\tan\alpha  \approx x \alpha $, where $\alpha$ is the angle at the vertex of our cone.
+
+Note that equation (\ref{int_eq}) is of Volterra type with respect to variable $x$, and is of difference kernel type with respect to the variable $\varphi$.
+This means that it can be solved using iterations with respect to $x$.
+
+Let us numerically solve the equation using the method of approximation by linear basis functions \cite{Zenkevich}. The following basis functions $N_i(x)$ are used:
+\begin{equation}
+N_i(x) = 
+\begin{cases}
+& 0, \quad x_{i-1}>x\\
+&(x-x_{i-1})/(x_{i} - x_{i-1}), \quad x_{i}>x>x_{i-1}\\
+&(x_{i+1}-x)/(x_{i+1} - x_i), \quad x_{i+1}>x>x_i,\\
+&0, \quad x>x_{i+1},
+\end{cases}
+\end{equation}
+i.~e. $N_i(x)$ is a triangle basis functions.
+The solution $U$ is sought in the form:
+\begin{equation} \label{discr}
+U(x, \varphi) \approx \sum_{i=1}^M U_i(\varphi) N_i(x),
+\end{equation}
+where $U_i(\varphi)$ are some unknown functions.
+We substitute (\ref{discr}) in (\ref{int_eq}) and get the system of linear integral equations:
+\begin{multline} \label{final_eq}
+U_i(\varphi_*)   = \sum_{j=1}^{M}\int_0^{2\pi}K_{ij}(\varphi_*,\varphi)U_j(\varphi)d\varphi + 2U^{\rm in}_i(\varphi_*), 
+\\ i = 1...M,
+\end{multline}
+where
+\begin{equation}
+U^{\rm in}_i(\varphi_*) \equiv U^{\rm in}(x_i,\varphi_*),
+\end{equation}
+\begin{equation}
+\label{K_mat}
+K_{ij}(\varphi_*,\varphi) \equiv \int_0^{x_i}K(x_i,\varphi_*,x,\varphi)N_j(x)dx,
+\end{equation}
+One can notice that the integrand  in (\ref{K_mat})  oscillates near the  point $x=x_i$ which can possibly be a source of numerical errors. To solve this issue the contour of integration should be slightly shifted to the upper complex half-plane where the kernel $K$ exponentially decays. 
+
+Then, system (\ref{final_eq}) is discretized  using finite difference method and solved by iteration for each frequency. 
+
+%%\begin{figure}[t!]\centering
+%%	\includegraphics[width=.4\textwidth]{contour.eps}
+%%	\caption{Integration contour for (\ref{contour}).}\label{contour}
+%%\end{figure}
+%
+%Equation (\ref{final_eq}) can be solved by iterations with respect to $x$:
+%
+%\begin{align}                       % key is any name used
+%& U(x) = \sum_{n=0}^{\infty} U^{\text{(n)}}(x) ,\notag\\
+%& U^{(0)}(x) = 2U^{\text{in}}(x),\label{key3}\\
+%& U^{(n+1)}(x_*) = \int_X^{x_*} K(x_*, x) U^{\text{(n)}}(x) dx, \quad n>0 \notag 
+%\end{align}
+%
+%We calculate the solution for each frequency $\omega$ and finally we get $U(\omega)$ for the field in observation point (see Fig.~\ref{exp_scheme}). 
+
+
+\section{Experimental results and modeling}
+
+\subsection{Axial incidence}
+
+In the case of the axial incidence ($y_s = 0$ m) there were almost no diffraction observed, i. e. the field measured on the surface of the cone were close to the free field of the point source. This result may look a little surprising, but let us explain it in terms of Fresnel zone approach. It is supposed that the diffraction happens when the obstacle are covered by  several Fresnel zones. Let us note that in experiment we consider frequencies in range 2000 - 10000 Hz. In these range  we can approximately suppose that the cone is irradiated by plane waves, since the source was put on the distance of 1 meter from the cone. The path difference between the shortest ray and the ray diffracted by the cone is then can be easily estimated (see Fig.~\ref{figFresnel}):
+\begin{equation}
+\label{Fresnel}
+L_1 - L_0 = \Delta l(1 - \cos\alpha)\approx \Delta l \alpha^2/2,
+\end{equation}
+The size of the the first Fresnel zone $\Delta l$ is determined by equating the latter to  $\lambda/2$:     
+\begin{equation}
+\Delta l = \lambda/\alpha^2.
+\end{equation}
+Thus, for the highest frequency  the size of the first Fresnel zone $\Delta l$ is around 15 meters that is 15 times bigger than the length of the cone. That is why we see no diffraction in the case of axial incidence. We should note that the same result is provided by the solution of equation (\ref{final_eq}).
+
+%\begin{figure}[t!]\centering
+%	\includegraphics[width=.5\textwidth]{axial.jpg}
+%	\caption{Measured field for different $x$ for $f = 2000$ Hz (circles) and for $f = 3000$ Hz (stars) compared to geometrical fading $\sim 1/(x+1)$.}\label{axial}
+%\end{figure}
+\begin{figure}[t!]\centering
+	\includegraphics[width=.5\textwidth]{Fresnel.eps}
+	\caption{Illustration to calculation of the size of Fresnel zone (\ref{Fresnel})}\label{figFresnel}
+\end{figure}
+
+
+\subsection{Non-axial incidence}
+Using a calculation similar to (\ref{Fresnel}) one can show that the diffraction process becomes  more noticeable when the source are shifted from the axis of the cone.  The experiment confirms this reasoning. The results of the experiment for shifts $y_s = \pm0.5, \pm0.3, \pm 0.1$ meters and $x_s =-1$ m  with respect to the results of the solution of equation (\ref{final_eq}) is showed in Fig.~\ref{y01}, Fig.~\ref{y03}, Fig.~\ref{y05} correspondingly. The receiver was put near the surface of the cone with $x$-coordinate equal to $0.8$ m, as showed in Fig.~\ref{exp_scheme}. The absolute value $|U/U_{\rm in}|$ are presented in the Figures to exclude the geometrical attenuation of the field. In other words, value $U/U_{\rm in}$ can be considered as an approximation to the field of the plane wave diffraction problem.
+
+
+\begin{figure}[t!]\centering
+	\includegraphics[width=.51\textwidth]{y01.jpg}
+	\caption{Comparison of experiment and theory for $y = \pm 0.1$ m. Theory (solid line) and experiment (dashed line) for $y = -0.1$ m, theory (dotted line) and experiment (dash-dotted line) for $y = 0.1$ m.}\label{y01}
+\end{figure}
+
+\begin{figure}[t!]\centering
+	\includegraphics[width=.51\textwidth]{y03.jpg}
+	\caption{Comparison of experiment and theory for $y = \pm 0.3$ m. Theory (solid line) and experiment (dashed line) for $y = -0.3$ m, theory (dotted line) and experiment (dash-dotted line) for $y = 0.3$ m.}\label{y03}
+\end{figure}
+
+\begin{figure}[t!]\centering
+	\includegraphics[width=.51\textwidth]{y05.jpg}
+	\caption{Comparison of experiment and theory for $y = \pm 0.5$ m. Theory (solid line) and experiment (dashed line) for $y = -0.5$ m, theory (dotted line) and experiment (dash-dotted line) for $y = 0.5$ m.}\label{y05}
+\end{figure}
+
+ The following natural conclusions can be made from the experiment. First, the absolute value of the  field in enlightened zone ($y_s<0$) is bigger than in shadow ($y_s>0$). Second, the  value $|U/U_{\rm in}|$ in enlightened zone tends  to $2$ as frequency grows  that is correspond to the reflection from hard wall, and  tends to $0$ in shadow. 
+
+The discrepancy between theory and experiment authors associate with  positioning errors, electrical noises in equipment, and with  imperfection of the source and microphone. Also we should note that the accuracy of  parabolic approximation decreases with grows of  $|y_s|$, since the diffraction process  can't be  considered as paraxial.  In papers to follow authors will study this problems more carefully and provide comparisons with some other existing theoretical approaches \cite{Popov,Andronov,Smychlyaev,Lyalinov}.     
+
+%The experimental results highly depend on the phase shift which is technically the distance between the point source and the microphone. The distances in our experiments were measured with error about $\pm 1$ cm, so we attenuated the phase shift during the calculations by hand within $\Delta = 1$ cm via multiplying the field by $\exp(ik\Delta)$.
+
+
+
+\section{Conclusion}
+
+In this work, a direct  acoustical diffraction experiment was held on diffraction by a narrow hard cone with the use of a point source and MLS technique. The results of the experiment for axial incidence show that there is almost no diffraction due to a big longitudinal size of the Fresnel zone along the cone surface. For non-axial incidence (if the angle of incidence are small enough) the results agree with the solution of boundary integral equation in parabolic approximation.
+ 
+
+
+%\iffalse 
+%
+%Body of subsection.
+%
+%Numbered formula should be written as
+%\begin{equation}\label{key}                       % key is any name used
+%a+b=2.                                         % to refer to the formula
+%\end{equation}
+%
+%The reference to such an equation should be as (\ref{key}).
+%
+%A few formulae:
+%\begin{gather}                       % key is any name used
+%a+b=2,\label{key1}\\
+%c+d=3.\label{key2}
+%\end{gather}
+%
+%
+%Aligned formulae:
+%\begin{align}                       % key is any name used
+%A={}&\int_0^1f(x)\mathrm{d}x,\notag\\
+%&{}+a+b+c,\label{key3}\\
+%B={}&3.\label{key4}
+%\end{align}
+%
+%A long formula:
+%\begin{multline}
+%D=a+b+c+e+\sum_{n=1}^\infty t_n\\
+%+f+\int_0^1g(x)\mathrm{d}x+q+h+y^2\\
+%-r-s-\sin(w).
+%\end{multline}
+% 
+%% See http://mirror.ctan.org/macros/latex/required/amslatex/math/amsldoc.pdf
+%% for more examples of AMS-LaTeX commands.
+% 
+%Citations are written as \cite{paper1}.           % paper1 is the name from
+%                                                  % \bibitem commands below
+%Fig.~\ref{fig1} shows handling of figures.
+%
+%%\begin{figure}[t!]\centering
+%%  \includegraphics[width=.43\textwidth]{Test_fig.eps}
+%%  \caption{This is test figure}\label{fig1}
+%%\end{figure}
+
+
+
+\section*{Acknowledgements}
+
+The work is supported by the RSF grant 14-22-00042.
+
+%  citations should be arranged by order of appearance
+%\fi
+\begin {thebibliography}{9}
+	
+\bibitem{Popov} Popov A., Ladyzhensky A., Khozioski S., 2009, Uniform Asymptotics of the Wave Diffracted by a Cone of Arbitrary Cross Section,  \emph{Russ. J. Math. Phys.}. Vol. \textbf{16}, no. \textbf{2}, p. 296-–299.
+	
+\bibitem{Andronov} Andronov I. V., 2011, Diffraction by a Strongly Elongated Body of Revolution, \emph{Acoust. Phys.} . Vol. \textbf{57}, p. 147–-152.
+	
+\bibitem{Shanin1} A.\,V\;Shanin, A.\,I\;Korolkov, 2017,  Diffraction by a thin cone in the parabolic approximation. Method of the boundary integral equation, \emph{ICEAA Proceedings 2017}, DOI: 10.1109/ICEAA.2017.8065342
+	
+\bibitem{Smychlyaev} V.\,M\;Babich, D.\,B\;Dement'ev, B.\,A\; Samokish, V.\,P\; Smychlyaev, 2000, On evaluation of the diffraction coefficient for arbitrary "nonsingular" directions of a smooth convex cone, \emph{SIAM J. Appl. Math}, Vol. \textbf{60}, no. \textbf{2}, p. 536--573.
+	
+\bibitem{Lyalinov} Lyalinov M. A., Zhu N. Y., 2007, Acoustic scattering by a circular semitransparent conical surface, \emph{J. Eng. Math.}. Vol. \textbf{59}, no. \textbf{4}, p. 385--398.
+	
+\bibitem{Shanin} Shanin A. V., Valyaev V. Yu., 2011, Maximum length sequence method in diffraction experiment, \emph{Acoustical Physics}. Vol \textbf{57}, no. \textbf{3}, p. 420--425.
+
+\bibitem{Shanin_parabolic} Shanin A. V., Korolkov A.I., 2018, Diffraction by an elongated body of revolution. A boundary integral equation based on the parabolic equation, \emph{arxiv.org} arXiv:1704.08857v1.
+
+\bibitem{Zenkevich} Zienkiewicz~O.~C., Taylor~R.~L. The Finite element method Volume 1: The Basis,  Oxford, Butterworth-Heinemann, 2000.
+
+\end{thebibliography}
+
+\end {document}

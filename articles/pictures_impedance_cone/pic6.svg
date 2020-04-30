@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pic6.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4584"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         id="path4586" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4406"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         id="path4408" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker12568"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         id="path12570" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12382"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path12384"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker12208"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path12210" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker11816"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         id="path11818" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11286"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path11288"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11126"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11128"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker10950"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         id="path10952" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10802"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         id="path10804" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10648"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path10650"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10512"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10514"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker10100"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path10102" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9928"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path9930" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9750"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9752"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9590"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9592"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8168"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8170"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8044"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8046"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7780"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path7782"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7668"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7670"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker7094"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         id="path7096" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6994"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#6e6e6e;stroke-opacity:1;fill:#6e6e6e;fill-opacity:1"
+         id="path6996" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6876"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path6878"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6788"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6790"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6694"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path6696" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6618"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path6620" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4428"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path4430" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4165"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="641.40989"
+     inkscape:cy="515.57918"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     inkscape:window-x="1920"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.46859479;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1053.7887,288.23944 642.80421,398.3624 1056.7748,509.28549 c 0,0 177.4601,-100.16462 -2.9861,-221.04605 z"
+       id="path4136"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.46859479;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 194.84387,698.00912 0,-627.181965"
+       id="path4138"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4426"
+       d="m 153.62652,678.91424 1105.87218,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4428)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.46859479;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20.81156877, 20.81156877;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 647.31156,398.60945 0,282.93265"
+       id="path4702"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:86.93566132px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="129.17401"
+       y="732.85687"
+       id="text4704"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         sodipodi:role="line"
+         id="tspan4706"
+         x="129.17401"
+         y="732.85687"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.90130997px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.78585052px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';baseline-shift:sub"
+   id="tspan4892">s</tspan> = -1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="466.69049"
+       y="442.73514"
+       id="text4708"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4710"
+         x="466.69049"
+         y="442.73514" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4712"
+       y="122.20967"
+       x="87.737419"
+       style="font-style:normal;font-weight:normal;font-size:90.07246399px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.66576385px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'"
+         y="122.20967"
+         x="87.737419"
+         id="tspan4714"
+         sodipodi:role="line">y, m</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4758"
+       d="m 642.56425,397.29553 -457.24719,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.45867014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20.75202197, 20.75202197;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.964493"
+       y="261.91785"
+       id="text4760"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4762"
+         x="95.964493"
+         y="261.91785" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4764"
+       y="410.41357"
+       x="98.784744"
+       style="font-style:normal;font-weight:normal;font-size:86.3449707px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.56904602px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'"
+         y="410.41357"
+         x="98.784744"
+         id="tspan4766"
+         sodipodi:role="line">y=0</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.79977942;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4768"
+       sodipodi:type="arc"
+       sodipodi:cx="864.00037"
+       sodipodi:cy="473.39395"
+       sodipodi:rx="11.51507"
+       sodipodi:ry="11.51507"
+       sodipodi:start="0.00073537528"
+       sodipodi:end="5.0192877e-05"
+       sodipodi:open="true"
+       d="m 875.51543,473.40242 a 11.51507,11.51507 0 0 1 -11.52156,11.5066 11.51507,11.51507 0 0 1 -11.50857,-11.51959 11.51507,11.51507 0 0 1 11.51762,-11.51055 11.51507,11.51507 0 0 1 11.51252,11.51565"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.31160855;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 875.42675,475.7054 13.56639,23.13938 -23.96021,-13.62251"
+       id="path4770"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:86.71003723px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1185.7063"
+       y="731.82465"
+       id="text4772"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         sodipodi:role="line"
+         id="tspan4774"
+         x="1185.7063"
+         y="731.82465"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.77439499px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">x, m</tspan></text>
+    <path
+       style="fill:#6e6e6e;fill-opacity:1;stroke:#706f70;stroke-width:3.46859479;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4956"
+       sodipodi:type="arc"
+       sodipodi:cx="195.79323"
+       sodipodi:cy="215.09741"
+       sodipodi:rx="20.584883"
+       sodipodi:ry="20.584883"
+       sodipodi:start="0.00073537528"
+       sodipodi:end="5.0192877e-05"
+       sodipodi:open="true"
+       d="m 216.37811,215.11255 a 20.584883,20.584883 0 0 1 -20.59649,20.56974 20.584883,20.584883 0 0 1 -20.57327,-20.59296 20.584883,20.584883 0 0 1 20.58944,-20.5768 20.584883,20.584883 0 0 1 20.58032,20.58592"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker6994);marker-end:url(#marker7094)"
+       d="M 140.17029,268.96848 250.5403,158.59847"
+       id="path4958"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8042"
+       d="M 250.5403,268.96848 140.17029,158.59847"
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4406);marker-end:url(#marker4584)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker10512);marker-end:url(#marker10648)"
+       d="m 273.39867,213.78349 -156.08674,0"
+       id="path8334"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8830"
+       d="m 195.35531,293.57875 0,-156.08675"
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker11126);marker-end:url(#marker11286)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       d="m 216.13001,585.64044 a 20.584883,20.584883 0 0 1 -20.59649,20.56974 20.584883,20.584883 0 0 1 -20.57327,-20.59296 20.584883,20.584883 0 0 1 20.58944,-20.5768 20.584883,20.584883 0 0 1 20.58033,20.58592"
+       sodipodi:open="true"
+       sodipodi:end="5.0192877e-05"
+       sodipodi:start="0.00073537528"
+       sodipodi:ry="20.584883"
+       sodipodi:rx="20.584883"
+       sodipodi:cy="585.62531"
+       sodipodi:cx="195.54514"
+       sodipodi:type="arc"
+       id="path11116"
+       style="fill:#6e6e6e;fill-opacity:1;stroke:#706f70;stroke-width:3.46859479;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11118"
+       d="M 139.9222,639.49637 250.29221,529.12636"
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker6994);marker-end:url(#marker7094)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker8044);marker-end:url(#marker8168)"
+       d="M 250.29221,639.49637 139.9222,529.12636"
+       id="path11120"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11122"
+       d="m 273.15057,584.31137 -156.08674,0"
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker10512);marker-end:url(#marker10648)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker10802);marker-end:url(#marker10950)"
+       d="m 195.10721,664.10664 0,-156.08673"
+       id="path11124"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker11816)"
+       d="m 216.37817,225.17086 633.31362,120.00549 c 0,0 56.06096,31.53428 18.395,110.37001"
+       id="path11808"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker12382)"
+       d="M 198.85911,584.31137 729.6863,423.13613 848.81585,466.93374"
+       id="path12374"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:1.73429739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker12568)"
+       d="M 198.85911,586.06327 849.69179,479.19708"
+       id="path12560"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="515.71429"
+       y="185.21935"
+       id="text4398"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4400"
+         x="515.71429"
+         y="185.21935" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:82.86147308px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="758.41779"
+       y="567.04333"
+       id="text4402"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95420008,-0.2991692,0.2991692,0.95420008,0,0)"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         sodipodi:role="line"
+         id="tspan4404"
+         x="758.41779"
+         y="567.04333"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.60958099px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">r = f(x)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       sodipodi:linespacing="125%"
+       id="text4888"
+       y="717.42096"
+       x="637.74652"
+       style="font-style:normal;font-weight:normal;font-size:69.37189484px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.02169037px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'"
+         y="717.42096"
+         x="637.74652"
+         id="tspan4890"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:87.8331604px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.045877"
+       y="234.74593"
+       id="text4894"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         sodipodi:role="line"
+         id="tspan4896"
+         x="10.045877"
+         y="234.74593"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.40615082px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">y<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.11399841px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';baseline-shift:sub"
+   id="tspan4900">s</tspan>&gt;0</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4902"
+       y="602.41699"
+       x="10.045877"
+       style="font-style:normal;font-weight:normal;font-size:87.8331604px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.40615082px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'"
+         y="602.41699"
+         x="10.045877"
+         id="tspan4904"
+         sodipodi:role="line">y<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.11399841px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';baseline-shift:sub"
+   id="tspan4908">s</tspan>&lt;0</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:connector-curvature="0"
+       id="path4667"
+       d="m 1055.883,512.89516 0,160.07551"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20.814,20.814;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:69.37189484px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1048.318"
+       y="713.13525"
+       id="text4669"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         sodipodi:role="line"
+         id="tspan4671"
+         x="1048.318"
+         y="713.13525"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.02169037px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">1</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:16,8;stroke-dashoffset:0"
+       d="M 1199.7513,248.57693 647.14286,396.64792 1200.9184,545.03164"
+       id="path4673"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 1171.4286,258.07649 c 0,0 111.4285,124.28571 0,278.57143"
+       id="path4675"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <text
+       transform="matrix(0.99999549,0.00300282,-0.00300282,0.99999549,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4681"
+       y="411.77829"
+       x="1143.3882"
+       style="font-style:normal;font-weight:normal;font-size:81.39037323px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.7820816px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'"
+         y="411.77829"
+         x="1143.3882"
+         id="tspan4683"
+         sodipodi:role="line">5.5</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4685"
+       cx="1207.2856"
+       cy="375.93362"
+       r="6.7063489"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20.814,20.814;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 867.883,482.89516 0,190.07551"
+       id="path4687"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       sodipodi:linespacing="125%"
+       id="text4689"
+       y="711.70667"
+       x="844.03229"
+       style="font-style:normal;font-weight:normal;font-size:69.37189484px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.02169037px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'"
+         y="711.70667"
+         x="844.03229"
+         id="tspan4691"
+         sodipodi:role="line">0.8</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:92.54039001px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="883.53552"
+       y="536.50848"
+       id="text4437"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Volumes/hdd/dzabakh/Dropbox/SaintGobain/cone_article/pic6.png"><tspan
+         sodipodi:role="line"
+         id="tspan4439"
+         x="883.53552"
+         y="536.50848"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.05396652px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">x<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4542">*</tspan>,φ<tspan
+   style="font-size:33.83507538px;baseline-shift:sub"
+   id="tspan4445">*</tspan></tspan></text>
+  </g>
+</svg>
